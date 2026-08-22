@@ -1,0 +1,6 @@
+{
+  "name": "Study Assistant Dashboard",
+  "description": "A modern, clean, and responsive dashboard layout for a study assistant featuring summaries, flashcards, quizzes, and study progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
